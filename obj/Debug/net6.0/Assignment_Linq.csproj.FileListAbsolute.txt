@@ -1,0 +1,15 @@
+E:\promact\c#\Project\src\Assignment_Linq\bin\Debug\net6.0\Assignment_Linq.exe
+E:\promact\c#\Project\src\Assignment_Linq\bin\Debug\net6.0\Assignment_Linq.deps.json
+E:\promact\c#\Project\src\Assignment_Linq\bin\Debug\net6.0\Assignment_Linq.runtimeconfig.json
+E:\promact\c#\Project\src\Assignment_Linq\bin\Debug\net6.0\Assignment_Linq.dll
+E:\promact\c#\Project\src\Assignment_Linq\bin\Debug\net6.0\Assignment_Linq.pdb
+E:\promact\c#\Project\src\Assignment_Linq\obj\Debug\net6.0\Assignment_Linq.csproj.AssemblyReference.cache
+E:\promact\c#\Project\src\Assignment_Linq\obj\Debug\net6.0\Assignment_Linq.GeneratedMSBuildEditorConfig.editorconfig
+E:\promact\c#\Project\src\Assignment_Linq\obj\Debug\net6.0\Assignment_Linq.AssemblyInfoInputs.cache
+E:\promact\c#\Project\src\Assignment_Linq\obj\Debug\net6.0\Assignment_Linq.AssemblyInfo.cs
+E:\promact\c#\Project\src\Assignment_Linq\obj\Debug\net6.0\Assignment_Linq.csproj.CoreCompileInputs.cache
+E:\promact\c#\Project\src\Assignment_Linq\obj\Debug\net6.0\Assignment_Linq.dll
+E:\promact\c#\Project\src\Assignment_Linq\obj\Debug\net6.0\refint\Assignment_Linq.dll
+E:\promact\c#\Project\src\Assignment_Linq\obj\Debug\net6.0\Assignment_Linq.pdb
+E:\promact\c#\Project\src\Assignment_Linq\obj\Debug\net6.0\Assignment_Linq.genruntimeconfig.cache
+E:\promact\c#\Project\src\Assignment_Linq\obj\Debug\net6.0\ref\Assignment_Linq.dll
